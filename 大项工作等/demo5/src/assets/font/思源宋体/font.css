@@ -1,0 +1,19 @@
+@font-face {  
+    font-family: 'SourceHanSerifCN-Bold';  
+    src: url('SourceHanSerifCN-Bold.otf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'SourceHanSerifCN-Medium';  
+    src: url('SourceHanSerifCN-Medium.otf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+    font-family: 'SourceHanSerifCN-Regular';  
+    src: url('SourceHanSerifCN-Regular.otf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+    
